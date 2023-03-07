@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Rishav Raj</h1>
 <h3 align="center">I'm a Python developer with a passion for building user-friendly web applications and automating data collection with web scraping. I'm experienced in Django, frontend development, and MySQL, and I'm always eager to learn and experiment with new tools and frameworks. Let's build something great together!</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
