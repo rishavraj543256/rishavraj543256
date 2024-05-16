@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Flask,Rust,FastAPI**
 
-- 💬 Ask me about **Python,Web Scraping,Django**
+- 💬 Ask me about **Python,Web Scraping,Django,Selenium**
 
 - 📫 How to reach me **rajrishav543256@gmail.com**
 
